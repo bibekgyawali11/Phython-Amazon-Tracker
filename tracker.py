@@ -4,7 +4,7 @@ import smtplib                             #mail protocol
 import time
 
 
-
+#function to check the price of a given link
 def check_price():
     URL = 'https://www.amazon.com/Acer-i5-8265U-Keyboard-Fingerprint-A515-54-51DJ/dp/B07RF2123Z/ref=sxin_2_ac_d_pm?ac_md=6-2-QWJvdmUgJDQwMA%3D%3D-ac_d_pm&keywords=laptop&pd_rd_i=B07RF2123Z&pd_rd_r=721db590-2b1a-4bc6-8093-1c3a919993e3&pd_rd_w=xHEJr&pd_rd_wg=S5l5l&pf_rd_p=eeff02d5-070a-45ea-a79e-d591974b877e&pf_rd_r=G0HE3T2PS5P1KDP46AKY&psc=1&qid=1567261183&s=gateway'
 
